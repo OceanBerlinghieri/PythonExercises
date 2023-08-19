@@ -54,6 +54,15 @@ Comenzaremos con una enumeración de las herramientas caracteristicas asi como l
 		4. Excepciones como clases
 	
 	8. Funciones lambda 
+
 	9. Generadores
+
 	10. Iteradores
+
 	11. Cierres
+
+	12. Procesamiento de archivos
+
+	13. Interaccion con sistema operativo
+
+	14. Modulo DateTime y Calendar
